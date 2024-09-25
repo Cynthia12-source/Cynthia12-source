@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cynthia Umugwaneza 
 - 👀 I’m interested in coding
-- 📫 How to reach me via Email cynthiaumugwaneza01@gmail.com 
+- 📫 Reach me via Email cynthiaumugwaneza01@gmail.com 
 
 <!---
 Cynthia12-source/Cynthia12-source is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
